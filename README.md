@@ -2,7 +2,7 @@
 
 ### [FCC Front-End Basic Project 1/2 : Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 
-**Description** : A simple page in html/css : Tribute to Swami Vivekanada.
+**Description** : A simple page in html & css : Tribute to Swami Vivekanada.
 
 **User Story**:
 
