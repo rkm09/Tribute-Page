@@ -1,4 +1,4 @@
-# [Tribute-Page](https://rkm09.github.io/Tribute-Page)
+# [Tribute-Page](https://rkm09.github.io/Tribute-Page/)
 
 ### [FCC Front-End Basic Project 1/2 : Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 
